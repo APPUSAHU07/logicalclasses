@@ -1,4 +1,4 @@
-package com.logicalclasses.array;
+// package com.logicalclasses.array;
 
 public class Array_01 {
 
