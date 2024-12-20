@@ -1,2 +1,2 @@
 # logicalclasses
-This repo is completely filled with logical programs 
+This repo is all about logical programs 
